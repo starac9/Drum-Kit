@@ -62,7 +62,7 @@ function makeSound(key){
 
      case "w":
 
-       var tom1 = new Audio ("sounds/tom-1.mp3");
+       var tom1 = new Audio ("tom-1.mp3");
 
        tom1.play();
 
@@ -72,7 +72,7 @@ function makeSound(key){
 
      case "a":
 
-       var tom2 = new Audio ("sounds/tom-2.mp3");
+       var tom2 = new Audio ("tom-2.mp3");
 
        tom2.play();
 
@@ -82,7 +82,7 @@ function makeSound(key){
 
      case "s":
 
-     var tom3 = new Audio ("sounds/tom-3.mp3");
+     var tom3 = new Audio ("tom-3.mp3");
 
      tom3.play();
 
@@ -92,7 +92,7 @@ function makeSound(key){
 
      case "d":
 
-     var tom4 = new Audio ("sounds/tom-4.mp3");
+     var tom4 = new Audio ("tom-4.mp3");
 
      tom4.play();
 
@@ -102,7 +102,7 @@ function makeSound(key){
 
      case "j":
 
-     var snare = new Audio ("sounds/snare.mp3");
+     var snare = new Audio ("snare.mp3");
 
      snare.play();
 
@@ -112,7 +112,7 @@ function makeSound(key){
 
      case "k":
 
-     var kick = new Audio ("sounds/kick-bass.mp3");
+     var kick = new Audio ("kick-bass.mp3");
 
      kick.play();
 
@@ -122,7 +122,7 @@ function makeSound(key){
 
      case "l":
 
-     var crash= new Audio ("sounds/crash.mp3");
+     var crash= new Audio ("crash.mp3");
 
      crash.play();
 
